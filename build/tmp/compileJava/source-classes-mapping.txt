@@ -1,2 +1,6 @@
+AdministratorServer/AdministratorServer.java
+ AdministratorServer.AdministratorServer
+AdministratorServer/beans/Greenfield.java
+ AdministratorServer.beans.Greenfield
 Main.java
  Main
